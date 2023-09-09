@@ -51,6 +51,10 @@ img[data-testid="slackDisplayImage"] {
 h1[data-testid="slackUserName"]{
     font-size: 3.5rem;
 }
+a[data-testid="githubURL"]{
+    text-decoration: none;
+    color: black;
+}
 h3{
     font-size: 1.5rem;
 }
